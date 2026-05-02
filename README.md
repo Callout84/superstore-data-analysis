@@ -48,7 +48,8 @@ Todo o conteúdo foi estudado e compreendido como parte do processo de aprendiza
 
 ## 📊 Example Analysis
 
-![Revenue by Region](images/revenue_by_region.png)
+<img width="2400" height="1500" alt="imagesrevenue_by_region png" src="https://github.com/user-attachments/assets/22b4c14f-1bee-44d7-8b9a-a5a98ed20cfb" />
+
 
 
 ## 🚀 Próximos passos
