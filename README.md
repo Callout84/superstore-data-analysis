@@ -45,6 +45,12 @@ Todo o conteúdo foi estudado e compreendido como parte do processo de aprendiza
 * Existem diferenças entre categorias de produtos
 * O lucro não segue exatamente o mesmo padrão da receita
 
+
+## 📊 Example Analysis
+
+![Revenue by Region](images/revenue_by_region.png)
+
+
 ## 🚀 Próximos passos
 
 * Criar dashboard com Power BI
